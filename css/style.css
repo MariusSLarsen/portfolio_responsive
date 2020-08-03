@@ -237,7 +237,7 @@ nav a:focus {
     background-color: #232323;
     padding: 4em;
     width: 100vw;
-    margin-left: -2.5%;
+    margin-left: -5%;
     outline: 2px solid #FFA500;
     outline-offset: -2.5em;
     color: #FFF;
