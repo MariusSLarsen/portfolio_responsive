@@ -10,3 +10,5 @@ function scrollFunction() {
     document.getElementById("nav-elements").style.fontSize = "12.8px";
   }
 }
+
+// NOT USED - NEEDS A FIX
