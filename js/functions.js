@@ -2,13 +2,13 @@
 window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
-  if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+  if (document.body.scrollTop > 0 || document.documentElement.scrollTop > 0) {
       document.getElementById("logoo").style.display ="none";
-    document.getElementById("nav-elements").style.fontSize = "10px";
+    // document.getElementById("nav-elements").style.fontSize = "10px";
   } else {
       document.getElementById("logoo").style.display ="initial";
-    document.getElementById("nav-elements").style.fontSize = "12.8px";
+    // document.getElementById("nav-elements").style.fontSize = "12.8px";
   }
 }
 
-// NOT USED - NEEDS A FIX
+// RESIZE NOT USED - MESSES WITH TRANSITION - NEEDS FIX
