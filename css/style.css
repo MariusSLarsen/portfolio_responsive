@@ -22,6 +22,10 @@ img {
     margin: 0 auto;
 }
 
+.container-about {
+    width: 100%;
+}
+
 .clearfix::after,
 section::after,
 footer::after {
@@ -246,8 +250,6 @@ nav a:focus {
 .home-about-textbox {
     background-color: #232323;
     padding: 4em;
-    width: 100vw;
-    margin-left: -5%;
     outline: 2px solid #FFA500;
     outline-offset: -2.5em;
     color: #FFF;
