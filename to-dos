@@ -1,4 +1,4 @@
-<!-- - Sticky navbar on scroll  -->  Finished
+<!-- - Sticky navbar on scroll  -->  Finished, needs some improvement
 - Fix navbar to resize (abit smaller) and remove logo on scrolldown. Back to normal when scrolled back to top.
 - Set up portfolio with css grid
 - Footer: Contact information, hyperlinked icons to social media
